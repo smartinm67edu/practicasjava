@@ -26,6 +26,11 @@ public class array1 {
 		for (String elemento:paises) {
 			System.out.println("Pais: " + elemento);
 		}
+	
+	
+	for (String elemento:paises) {
+		System.out.println("Pais: " + elemento);
+	}
 		
 	}
 
